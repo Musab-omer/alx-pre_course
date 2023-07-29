@@ -1,8 +1,0 @@
-1. git clone command to clone the repostory form remote to local
-2. git add . to add file to the reposotry
-3. git commit -m <commit message> to commit change
-4. git push to bush the local file to the origin
-6. git branch -b <branch name > to create a new branch
-7. git chekcout b <branch name > to create a new branch and change to it
-8. git checkout <branch name > to change to from the curent branch to new branch
-9. git branch -D <branch name >  to remove a branch
