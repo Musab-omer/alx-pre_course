@@ -5,4 +5,5 @@
 6. git branch -b <branch name > to create a new branch
 7. git chekcout b <branch name > to create a new branch and change to it
 8. git checkout <branch name > to change to from the curent branch to new branch
-9. git branch -D <branch name >  to remove a branch:x:
+9. git branch -D <branch name >  to remove a branch:x
+10. git pull
